@@ -1,2 +1,6 @@
 # CustomFocusIcon
-iOS TrollStore Utils custom focus mode icon
+iOS Utils custom focus mode icon
+
+iOS 自定义专注模式图标
+
+## Guide
