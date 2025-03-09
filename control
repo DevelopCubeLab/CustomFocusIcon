@@ -1,0 +1,9 @@
+Package: com.developlab.customfocusicon
+Name: Custom Focus Icon
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Custom focus mode icon
+Maintainer: developlab
+Author: developlab
+Section: Utilities
+Depends: firmware (>= 14.0) | ${LIBSWIFT}

@@ -1,0 +1,951 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "About" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "About"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "关于"
+          }
+        }
+      }
+    },
+    "Alert" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alert"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "提示"
+          }
+        }
+      }
+    },
+    "Cancel" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancel"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "取消"
+          }
+        }
+      }
+    },
+    "CFBundleDisplayName" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Focus icon"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "专注图标"
+          }
+        }
+      }
+    },
+    "Confirm" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Confirm"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "确定"
+          }
+        }
+      }
+    },
+    "ConfirmSaveMessage" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Are you sure you want to modify the icon?"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "确定修改图标吗?"
+          }
+        }
+      }
+    },
+    "Copy" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copy"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "复制"
+          }
+        }
+      }
+    },
+    "CopyCommandsFooter" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Press and hold or swipe to copy commands or path"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "长按或滑动可复制命令或地址"
+          }
+        }
+      }
+    },
+    "CopySFSymbol" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copy icon: %@"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已复制图标: %@"
+          }
+        }
+      }
+    },
+    "DemoMode" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Demo mode"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "演示模式"
+          }
+        }
+      }
+    },
+    "DemoModeNotSupportedEditMessage" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The save function is not supported in demo mode."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "演示模式下不支持保存"
+          }
+        }
+      }
+    },
+    "Dismiss" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dismiss"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "关闭"
+          }
+        }
+      }
+    },
+    "DontShowAgain" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Don't show again"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "不再提示"
+          }
+        }
+      }
+    },
+    "FocusModeName" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Focus mode name"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "专注模式名称"
+          }
+        }
+      }
+    },
+    "Guide" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guide"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "教程"
+          }
+        }
+      }
+    },
+    "GuideBackup" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Using backup file editing guide (requires computer)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "使用备份编辑教程(需要电脑)"
+          }
+        }
+      }
+    },
+    "GuideBackupContent" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Backup Editing Guide (requires computer)\n\nYou can use Windows PC or macOS to achieve this, macOS users are recommended to refer to the macOS editing tutorial, which is simpler.\n\n1. First, create a new Focus Mode, you can also create several, which is convenient for batch modification. Encrypt the backup device using iTunes or a third-party management tool (such as: iMazing or i4 Tools or 3u Tools), please note that you must encrypt the backup, otherwise the backup will not contain the required files.\n\n2. After the backup is complete, open the backup and find\n\n/HomeDomain/Library/DoNotDisturb/DB/ModeConfigurations.json\n\n(All commands can be directly swiped and clicked to copy below the tutorial)\n\nCopy this file to your computer.\n\n3. (Using App Modification) Send this file to the current device, save it to the File App, find the current App's directory, then open the App's 'Manual Mode' for modification. After modification, the file will be saved to the directory you copied to, and you can copy this file back to the computer.\n\n3. (Manual Modification) Open the copied file, use any text editor, no restrictions, search for the focus mode you just created, search for it, find the field \"symbolImageName\" after the name, which is something like this:\n\n\"symbolImageName\":\"book.fill\", then you just need to change this book.fill to bell.slash.fill, which is the mute icon, or the SF Symbol you want, you can find it in the SF Symbols app. Do not leave any spaces, do not change the original format \"symbolImageName\":\"bell.slash.fill\", save the file, and close the text editor.\n\nImportant Tip: It is recommended to choose an SF Symbol that is compatible with all your devices, and it is recommended to choose an SF Symbol compatible with iOS 15.0 or later, otherwise when you open this SF Symbol, the low version system will not be able to display this icon normally, which will cause SpringBoard to restart indefinitely! Unless you turn off this incompatible focus mode!\n\n4. Replace the modified file in the backup.\n\n5. Restore the backup to the device and wait for the restore to complete. Please note that after the restore process, if \"Data Restore Options\" appear on the screen, please select \"Do Not Transfer Apps and Data\", otherwise your data may be lost.\n\n6. Open System Settings, Focus Mode, the icon has been changed. Remember to change the name or color of this focus mode again so that iCloud can sync this focus mode. Please do not change the icon, just change the name or color.\n\n7. Open the Focus Mode and enjoy it."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "使用备份编辑教程(需要电脑)\n\n使用Windows电脑或者macOS都可以实现，macOS用户建议参考macOS的编辑教程，更简单一些。\n\n1. 新建一个专注模式，也可以多创建几个，方便批量修改。首先使用iTunes 或者第三方管理工具（例如：iMazing或者爱思助手或3u助手）加密备份设备，请注意必须要加密备份，否则备份中将不包含所需文件\n\n2. 等待备份完成后，打开备份并且找到\n/HomeDomain/Library/DoNotDisturb/DB/ModeConfigurations.json\n（所有命令在教程下面可以直接滑动点击复制）\n把这个文件复制到电脑上\n\n3. （使用App修改）将这个文件发送到当前设备中，保存到文件App中，找到当前App的目录，然后打开App的’手动模式’进行修改。修改后，文件会保存到您复制到的目录下，重新复制这个文件到电脑即可。\n\n3. （手动修改）打开复制好的文件，用文本编辑器，任何文本编辑器都行，没限制，搜索你刚才新建的那个专注模式，搜索到以后，找到名字后边的的字段“symbolImageName” 大概是这样的：\n\"symbolImageName\":\"book.fill\", 然后只需要修改这个book.fill,变成    bell.slash.fill ，这个就是静音图标，或者您希望的SF Symbol，可以到SF Symbols的程序中找，macOS可以下载到这个App。前后不要有空格，不要改变原始格式\"symbolImageName\":\"bell.slash.fill”，保存文件，关闭文本编辑器\n重要的提示：SF Symbol建议选择您所有设备都兼容的，建议选择最低兼容iOS 15.0的SF Symbol，否则当您打开这个SF Symbol后低版本系统无法正常显示这个icon会导致SpringBoard无限重启！除非您关闭这个不兼容的专注模式！\n\n4. 将修改好的文件覆盖到备份中\n\n5. 恢复备份到设备中，等待恢复完成。请注意恢复过程后如果屏幕上出现出现“数据恢复选项”，请选择“不传输APP与数据”，否则您的数据可能会丢失\n\n6. 打开系统设置，专注模式，图标已经被更改，记得要再给这个专注模式改下名字或颜色，这样让iCloud同步这个专注模式，请勿修改图标，改名字或者颜色就好了。\n\n7. 打开专注模式愉快享受。"
+          }
+        }
+      }
+    },
+    "GuideFilza" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Use Filza edit guide (only iOS 15)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "使用Filza手动编辑教程(仅限iOS 15系统)"
+          }
+        }
+      }
+    },
+    "GuideFilzaContent" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Using Filza to Manually Edit Guide (Only for iOS 15)\n\niOS 15 devices can use this App to edit directly. Below is the tutorial for manual modification:\n\n1. Open System Settings, Focus Mode, create a new Focus Mode, you can also create several, which is convenient for batch modification. Then name it arbitrarily, remember this name, and choose any icon. Choose any color you like. Then turn off the settings from the background.\n\n2. Use Filza to open:\n\n/var/mobile/Library/DoNotDisturb/DB/ModeConfigurations.json\n\n(All commands can be directly swiped and clicked to copy below the tutorial)\n\n3. Open the copied file, use a text editor, any text editor works, no restrictions, search for the Focus Mode you just created, find the field \"symbolImageName\" after the name, it looks something like this:\n\n\"symbolImageName\":\"book.fill\", then you just need to change this book.fill to bell.slash.fill, which is the mute icon, or the SF Symbol you want, you can find it in the SF Symbols app. macOS can download it to this App. Do not leave any spaces, do not change the original format \"symbolImageName\":\"bell.slash.fill\", save the file, and close the text editor.\n\nImportant Tip: It is recommended to choose an SF Symbol that is compatible with all your devices, and it is recommended to choose the SF Symbol compatible with the lowest iOS 15.0, otherwise, when you open this SF Symbol, the low version system cannot display this icon normally, which may cause SpringBoard to restart infinitely! Unless you turn off this incompatible Focus Mode!\n\n4. Save the current file\n\n5. Restart or restart the user space. Do not change the Focus Mode in the settings before restarting, otherwise the previous modifications may be overwritten.\n\n6. Open System Settings, Focus Mode, the icon has been changed. Remember to change the name or color of this Focus Mode again so that iCloud can sync this Focus Mode. Do not change the icon, just change the name or color.\n\n7. Open Focus Mode and enjoy it."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "使用Filza手动编辑教程(仅限iOS 15系统)\n\niOS 15 设备可以使用此App直接编辑，下面是手动修改的教程：\n\n1. 打开系统设置，专注模式，新建一个专注模式，也可以多创建几个，方便批量修改。然后随便起名字，要记住这个名字，图标随便选。颜色您喜欢什么颜色就用什么颜色。然后从后台关闭设置。\n\n2. 使用Filza打开：\n/var/mobile/Library/DoNotDisturb/DB/ModeConfigurations.json\n（所有命令在教程下面可以直接滑动点击复制）\n\n3.打开复制好的文件，用文本编辑器，任何文本编辑器都行，没限制，搜索你刚才新建的那个专注模式，搜索到以后，找到名字后边的的字段“symbolImageName” 大概是这样的：\n\"symbolImageName\":\"book.fill\", 然后只需要修改这个book.fill,变成    bell.slash.fill ，这个就是静音图标，或者您希望的SF Symbol，可以到SF Symbols的程序中找，macOS可以下载到这个App。前后不要有空格，不要改变原始格式\"symbolImageName\":\"bell.slash.fill”，保存文件，关闭文本编辑器\n重要的提示：SF Symbol建议选择您所有设备都兼容的，建议选择最低兼容iOS 15.0的SF Symbol，否则当您打开这个SF Symbol后低版本系统无法正常显示这个icon会导致SpringBoard无限重启！除非您关闭这个不兼容的专注模式！\n\n4. 保存当前文件\n\n5.重启或者重新启动用户空间，在重启之前请勿到设置中更改专注模式，否则之前的修改可能会被覆盖\n\n6.打开系统设置，专注模式，图标已经被更改，记得要再给这个专注模式改下名字或颜色，这样让iCloud同步这个专注模式，请勿修改图标，改名字或者颜色就好了。\n\n7. 打开专注模式愉快享受。"
+          }
+        }
+      }
+    },
+    "GuideMacOS" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "macOS editing guide (requires a Mac)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "使用macOS编辑教程(需要搭载macOS的电脑)"
+          }
+        }
+      }
+    },
+    "GuideMacOSContent" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "macOS Editing Guide (requires macOS)\n\nFirstly, make sure that the computer and phone are using the same iCloud account, this is very important!\n\n1. Open the computer's settings, Focus Mode, create a new Focus Mode, you can also create several, which is convenient for batch modification. Then name it arbitrarily, remember this name, and choose any icon. Choose the color you like. Then close the settings, Command + Q\n\n2. Open Mac's Finder\nCommand + Shift + G to bring up the address bar, paste this address\n~/Library/DoNotDisturb/DB/ModeConfigurations.json\n(All commands can be directly swiped and clicked to copy below the tutorial)\nMake a copy of this file, copy it to the desktop or the download folder, you must copy it, otherwise you will be prompted that the file is locked\n\n3. (Using App to Modify) Send this file to the current device, save it to the Files App, find the current App's directory, then open the App's 'Manual Mode' for modification. After modification, the file will be saved to the directory you copied to, and then copy this file back to the computer.\n\n3. (Manual Modification) Open the copied file, use a text editor, any text editor is fine, no restrictions, search for the focus mode you just created, after searching, find the field \"symbolImageName\" after the name, it looks something like this:\n\n\"symbolImageName\":\"book.fill\", then you just need to change \"book.fill\" to \"bell.slash.fill\", this is the mute icon, or the SF Symbol you want, you can find it in the SF Symbols app. Do not leave any spaces, do not change the original format \"symbolImageName\":\"bell.slash.fill\", save the file, and close the text editor\n\nImportant Tip: It is recommended to choose an SF Symbol that is compatible with all your devices, and it is recommended to choose an SF Symbol compatible with iOS 15.0 or later, otherwise, when you open this SF Symbol, the low version system will not be able to display this icon normally, which will cause SpringBoard to restart indefinitely! Unless you turn off this incompatible Focus Mode!\n\n4. Copy the file back to ~/Library/DoNotDisturb/DB/and overwrite it\n\n5. Restart the computer, this step is very important, otherwise the system will not reload the Focus Mode\n\n6. After restarting, open the computer settings, Focus Mode, the icon has changed, remember to change the name or color of this Focus Mode again, so that iCloud can synchronize this Focus Mode, please do not change the icon, just change the name or color.\n\n7. Wait for iCloud to synchronize to the phone and iPad, open the focus mode and enjoy it happily."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "使用macOS编辑教程(需要搭载macOS的电脑)\n\n首先保证电脑和手机用的是一个iCloud账户，这个很重要！\n\n1.打开电脑的设置，专注模式，新建一个专注模式，也可以多创建几个，方便批量修改。然后随便起名字，要记住这个名字，图标随便选。颜色您喜欢什么颜色就用什么颜色。然后关闭设置，Command + Q\n\n2. 打开Mac的Finder\nCommand + Shift + G 出现地址栏，粘贴这个地址\n ~/Library/DoNotDisturb/DB/ModeConfigurations.json\n（所有命令在教程下面可以直接滑动点击复制）\n把这个文件复制一份，复制到桌面或者下载文件夹都行，一定要复制，否则会提示文件已锁定\n\n3. （使用App修改）将这个文件发送到当前设备中，保存到文件App中，找到当前App的目录，然后打开App的’手动模式’进行修改。修改后，文件会保存到您复制到的目录下，重新复制这个文件到电脑即可。\n\n3. （手动修改）打开复制好的文件，用文本编辑器，任何文本编辑器都行，没限制，搜索你刚才新建的那个专注模式，搜索到以后，找到名字后边的的字段“symbolImageName” 大概是这样的：\n\"symbolImageName\":\"book.fill\", 然后只需要修改这个book.fill,变成    bell.slash.fill ，这个就是静音图标，或者您希望的SF Symbol，可以到SF Symbols的程序中找，macOS可以下载到这个App。前后不要有空格，不要改变原始格式\"symbolImageName\":\"bell.slash.fill”，保存文件，关闭文本编辑器\n重要的提示：SF Symbol建议选择您所有设备都兼容的，建议选择最低兼容iOS 15.0的SF Symbol，否则当您打开这个SF Symbol后低版本系统无法正常显示这个icon会导致SpringBoard无限重启！除非您关闭这个不兼容的专注模式！\n\n4. 把文件复制回~/Library/DoNotDisturb/DB/并且进行覆盖\n\n5. 重启电脑，这一步很重要，不然系统不会重新加载专注模式\n\n6. 重启后，打开电脑设置，专注模式，图标已经变了，记得要再给这个专注模式改下名字或颜色，这样让iCloud同步这个专注模式，请勿修改图标，改名字或者颜色就好了。\n\n7. 等待iCloud同步到手机和iPad上，打开专注模式愉快享受。"
+          }
+        }
+      }
+    },
+    "GuideManual" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iOS 16 or above version (requires jailbreak)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iOS 16或以上版本系统(需要越狱)"
+          }
+        }
+      }
+    },
+    "GuideManualContent" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iOS 16 or above version (requires jailbreak) modification guide\n\nDue to the fact that the configuration file directory has been protected by the system starting from iOS 16.0 version, you cannot directly use this App or Filza to edit it. You need to use SSH or Terminal commands to achieve this.\n\n1. First, make sure your device is jailbroken and has SSH and NewTerm installed, and you know the current root password. Create a new focus mode, you can also create several, which is convenient for batch modification.\n\n2. It is recommended to try using NewTerm on the iOS device first,\n\nIn NewTerm, input\n\nsu\n\nThen press the Enter key, input the root password, and press Enter\n\nSkip directly to step 4\n\n3. If step 2 fails, you can only use the SSH command to operate. The computer and phone are on the same Wi-Fi, open Terminal on the computer and input\n\n%@\n\n(All commands can be directly swiped and clicked to copy below the tutorial)\n\nPress the Enter key and input your root password\n\n4. Copy the following command to copy the configuration file to the current App\n\n%@\n\nIf you cannot copy on the iOS device, a prompt of no permission will appear, then you need to jump to step 3 and use SSH to solve it.\n\nCopy the following command to change file permissions\n\n%@\n\n5. Open the App's settings and enable 'Manual Mode'\n\n6. Use the App's built-in editor to edit the icon of the focus mode you want\n\n7. Use the following command to copy the configuration file to the original directory\n\n%@\n\nCopy the following command to change file permissions\n\n%@\n\n8. Restart or reboot the user space. Do not change the focus mode in the settings before restarting, otherwise the previous modifications may be overwritten\n\n9. Open system settings, focus mode, the icon has been changed. Remember to change the name or color of this focus mode so that iCloud can sync this focus mode. Please do not change the icon, just change the name or color.\n\n10. Open the focus mode and enjoy it."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iOS 16或以上版本系统(需要越狱)修改教程\n\n由于配置文件目录从iOS 16.0版本开始，被系统保护了，因此您无法直接使用此App或者Filza进行编辑。需要使用SSH或者Terminal命令来实现\n\n1. 首先确保您的设备已经越狱并且安装了SSH和NewTerm，并且您已经知道当前的root密码。新建一个专注模式，也可以多创建几个，方便批量修改。\n\n2. 建议先在iOS设备上尝试使用NewTerm进行尝试，\n在NewTerm输入\nsu\n然后按下换行按钮（回车），输入root密码，回车\n请直接到步骤4\n\n3. 如果步骤2失败，只能使用SSH命令进行操作。电脑和手机在同一个Wi-Fi下，电脑打开Terminal 输入\n%@\n（所有命令在教程下面可以直接滑动点击复制）\n并按下换行按钮，并且输入您的root密码\n\n4. 复制下列命令将配置文件复制到当前App中\n%@\n如果在iOS设备上无法复制，提示无权限，则需要跳转到步骤3使用SSH来解决。\n\n复制下列命令更改文件权限\n%@\n\n5. 打开App的设置，启用’手动模式’\n\n6. 使用App内编辑器编辑您想要的专注模式icon\n\n7.使用下列命令将配置文件复制到原始目录下\n%@\n复制下列命令更改文件权限\n%@\n\n8.重启或者重新启动用户空间，在重启之前请勿到设置中更改专注模式，否则之前的修改可能会被覆盖\n\n9.打开系统设置，专注模式，图标已经被更改，记得要再给这个专注模式改下名字或颜色，这样让iCloud同步这个专注模式，请勿修改图标，改名字或者颜色就好了。\n\n10. 打开专注模式愉快享受。"
+          }
+        }
+      }
+    },
+    "Home" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Home"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "主页"
+          }
+        }
+      }
+    },
+    "IconSFSymbolName" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Icon SF Symbol name"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "图标SF symbol名称"
+          }
+        }
+      }
+    },
+    "ImportantTips" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Important tips"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "重要提示"
+          }
+        }
+      }
+    },
+    "ImportantTipsMessage" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SF Symbol recommends selecting an SF Symbol that is compatible with all your devices and has a minimum compatibility of iOS 15.0. Otherwise, when you open this SF Symbol, the icon will not display properly on lower version systems, which may cause the SpringBoard to restart indefinitely! Unless you disable this incompatible focus mode!"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SF Symbol建议选择您所有设备都兼容的，最低兼容iOS 15.0的SF Symbol，否则当您打开这个SF Symbol后低版本系统无法正常显示这个icon会导致SpringBoard无限重启！除非您关闭这个不兼容的专注模式！"
+          }
+        }
+      }
+    },
+    "InvalidSFSymbolMessage" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The SF Symbol you entered is invalid, it cannot be saved, please modify the SF Symbol or select a SF Symbol from the recommended list."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "您输入的SF Symbol无效，无法保存，请修改SF Symbol或从推荐列表中选择SF Symbol"
+          }
+        }
+      }
+    },
+    "ManualMode" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Manual mode"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "手动模式"
+          }
+        }
+      }
+    },
+    "ManualModeCopyFileFooter" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Please copy the 'ModeConfigurations.json' to the App directory within the File App or '%@'"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "请将'ModeConfigurations.json'文件复制到文件App中的App目录或'%@'"
+          }
+        }
+      }
+    },
+    "Mode" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mode"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "模式"
+          }
+        }
+      }
+    },
+    "ModeNameTextFooter" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Focus mode name and color can be changed in system settings"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "专注模式名称、颜色可在系统设置中更改"
+          }
+        }
+      }
+    },
+    "ModifySuccessfulWithManual" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The modification was successful, please continue to refer to the contents of the tutorial for further operation.\nThe original file has been backed up at: %@"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "修改成功，请继续参考教程中的内容继续操作\n原始文件已备份在: %@"
+          }
+        }
+      }
+    },
+    "ModifySuccessfulWithRoot" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jailbreak devices can take effect after restarting user space. If you need to synchronize to other devices in your iCloud account, please restart the device/restart user space and then add or modify a focus mode name in the focus mode settings under system settings to trigger synchronization.\nThe original file has been backed up at: %@"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "修改成功，请重启设备后生效\n越狱设备可以重启用户空间后生效，如需要同步到iCloud账户中的其他设备中，请重启设备/重启用户空间后在系统设置中专注模式中随意添加或修改一个专注模式的名称即可触发同步。\n原始文件已备份在: %@"
+          }
+        }
+      }
+    },
+    "NoPermissionFooter" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Current permissions are not available, please go to settings to view the tutorial or switch to a different mode."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "当前无权限，请切换至设置中查看教程或切换模式"
+          }
+        }
+      }
+    },
+    "NotSupportedSFSymbolMessage" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The input SF Symbol is invalid."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "输入的SF Symbol无效"
+          }
+        }
+      }
+    },
+    "NotSupportFooter" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iOS 15.0 and below not support Focus Mode."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iOS 15.0以下系统不支持专注模式"
+          }
+        }
+      }
+    },
+    "Paste" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Paste"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "粘贴"
+          }
+        }
+      }
+    },
+    "PreviewIcon" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Preview icon"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "图标预览"
+          }
+        }
+      }
+    },
+    "Reboot" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reboot"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "重启设备"
+          }
+        }
+      }
+    },
+    "RecommendIcon" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recommend icon"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "推荐图标"
+          }
+        }
+      }
+    },
+    "RequiredCommands" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Required commands or path"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "所需要的命令或目录地址"
+          }
+        }
+      }
+    },
+    "ResetAlert" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reset alert"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "重设警告"
+          }
+        }
+      }
+    },
+    "RunWithiOS14Message" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iOS 15.0 or below does not support focus mode"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iOS 15.0以下版本不支持专注模式"
+          }
+        }
+      }
+    },
+    "RunWithiOS16RootMessage" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Starting with iOS 16.0, the configuration profile directory of Focus Mode has been protected by the system and cannot be directly modified. Please refer to the contents of the tutorial for operation."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iOS 16.0开始，专注模式的配置文件目录已经被系统保护，无法使用直接进行修改，请参考教程中的内容进行操作"
+          }
+        }
+      }
+    },
+    "RunWithManualModeMessage" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Currently in manual mode, please note that after saving the file, continue to follow the tutorial to complete the modification."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "当前为手动模式，请注意保存文件后，继续参考教程完成修改"
+          }
+        }
+      }
+    },
+    "RunWithNoPermissionMessage" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your installation method cannot obtain more permissions, please try enabling demonstration mode or refer to the tutorial to use other methods for modification."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "您的安装方式无法获取更多权限，请尝试开启演示模式或参考教程使用其它方法进行修改"
+          }
+        }
+      }
+    },
+    "Save" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Save"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "保存"
+          }
+        }
+      }
+    },
+    "Settings" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Settings"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "设置"
+          }
+        }
+      }
+    },
+    "SFSymbolReference" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SF Symbol Reference"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SF Symbol参考"
+          }
+        }
+      }
+    },
+    "SFSymbolsPreview" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SF Symbols Preview"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SF Symbols 预览"
+          }
+        }
+      }
+    },
+    "SFSymbolTextFooter" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Do not use SF Symbol that is not supported by low iOS versions, otherwise enabling focus mode, it will cause SpringBoard to restart infinitely!"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "请勿使用低iOS系统版本不支持的SF Symbol，否则开启专注模式后，会导致SpringBoard无限重启！"
+          }
+        }
+      }
+    },
+    "TestIcon" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Test and show icon"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "测试图标"
+          }
+        }
+      }
+    },
+    "TipsContent" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Please place your 'ModeConfigurations.json' in this directory"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "请将您的'ModeConfigurations.json'放置在此目录下"
+          }
+        }
+      }
+    },
+    "TipsFileName" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tips.txt"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "提示.txt"
+          }
+        }
+      }
+    },
+    "Unknown" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unknown"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "未知"
+          }
+        }
+      }
+    },
+    "Version" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Version"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "版本"
+          }
+        }
+      }
+    },
+    "WorkAtRootHomeFooter" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Click + to jump to settings to add focus mode"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "点击+可跳转到设置中添加专注模式"
+          }
+        }
+      }
+    },
+    "WorkMode" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Work mode: %@"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "工作模式： %@"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
